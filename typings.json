@@ -1,0 +1,7 @@
+{
+  "globalDependencies": {
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160726204056",
+    "hammerjs": "registry:dt/hammerjs#2.0.8+20161224203613",
+    "moment": "registry:dt/moment#2.11.1+20161010105546"
+  }
+}
